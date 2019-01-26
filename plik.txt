@@ -1,0 +1,41 @@
+Quiz o c++
+Ktora komenda wyswietla cos na ekranie?
+a. cin
+b. cout
+c. char
+b
+Jaki znak konczy wiekszosc linii?
+a. ;
+b. ,
+c. |
+a
+Ktory znak jest odpowiednikiem logicznego "i"?
+a. &
+b. ||
+c. &&
+c
+Ktore z ponizszych przedstawia poprawna skladnie dla funkcji "if"?
+a. if{warunek}
+b. if (warunek)
+c. warunek if
+b
+Ktora z ponizszych jest poprawnie zadeklarowana tablica?
+a. tablica{10}
+b. int tablica [10]
+c. char tablica
+b
+Ktore z ponizszych NIE jest struktura petli?
+a. do while
+b. for
+c. repeat until
+c
+Kto wynalazl jezyk c++?
+a. Bill Gates
+b. Bjarne Stroustrup
+c. Linus Torvalds
+b
+Dodawanie 1 do zmiennej jest nazywane:
+a. inkrementacja
+b. dekrementacja
+c. rekurencja
+a
